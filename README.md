@@ -68,10 +68,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karaasu13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karaasu13/karaasu13/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/karaasu13/karaasu13/output/github-snake.svg" alt="Snake eating my contributions" />
