@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/crow.gif" alt="Pixel crow" width="200" />
+  <img src="assets/cat.gif" alt="Pixel cat" width="220" />
 </p>
 
 <h1 align="center">Hi, I'm Corvo</h1>
